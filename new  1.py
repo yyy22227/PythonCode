@@ -1,4 +1,4 @@
 #print ("我的第一隻Python程式")
-	
-name = input("what is your name?\n")
+#123456789555
+name = input("what is your Name?\n")
 print("Hi %s " %name)
